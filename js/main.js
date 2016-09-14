@@ -1,3 +1,4 @@
+
 document.getElementsByTagName('h2')[0].innerHTML='Por favor inicia sesión';
 document.getElementById('inputEmail').placeholder='Correo Electrónico';
 document.getElementById('inputPassword').placeholder='Contraseña';
